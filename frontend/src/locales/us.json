@@ -1,0 +1,89 @@
+{
+    "header": {
+        "top__link": [
+            "Home",
+            "My Account",
+            "Shopping Cart",
+            "Checkout"
+        ],
+        "bot__link": [
+            "LOG IN",
+            "or",
+            "Creat account"
+        ]
+    },
+    "footer": {
+        "title": "OUR BRAND",
+        "inner1": [
+            "INFORMATION",
+            "ABOUT US",
+            "CUSTOMAR SERVICE",
+            "PRIVACY POLICY",
+            "SITE MAP",
+            "CONTACT"
+        ],
+        "inner2": [
+            "WHY BUY FROM US",
+            "ABOUT US",
+            "SHIPPING & RETURNS",
+            "INTERNATIONAL SHIPPINH",
+            "AFFILIATES",
+            "GROUP SALES"
+        ],
+        "inner3": [
+            "MY ACCOUNT",
+            "SIGN IN",
+            "VIEW CART",
+            "MY WISHLIST",
+            "TRACK MY ORDER",
+            "HELP"
+        ],
+        "inner4": [
+            "CONTACT",
+            "EAST BOX NAGAR, SARULIA",
+            "DEMRA, DHAKA-1361",
+            "+880 1768760504",
+            "+880 1735982113",
+            "binburhan1{'@'}gmail.com"
+        ],
+        "buttons" : [
+            "WE ACCEPT",
+            "FOLLOW US"
+        ] 
+    },
+    "prefooter": {
+        "cont1": [
+            "First Shipping",
+            "Get you every whare"
+        ],
+        "cont2": [
+            "Secure Store",
+            "100% Secure Store"
+        ],
+        "cont3": [
+            "Save Time",
+            "Save Your Time"
+        ],
+        "cont4": [
+            "Pay on Delivery",
+            "Get you every whare"
+        ]
+    },
+    "category": [
+        "smartphone",
+        "desktop",
+        "laptop",
+        "accessories",
+        "networking",
+        "software"
+    ],
+    "breadcrumbs": {
+        "home": "Home",
+        "smartphone": "Smartphone",
+        "desktop": "Desktop",
+        "laptop": "Laptop",
+        "accessories": "Accessories",
+        "networking": "Networking",
+        "software": "Software"
+    }
+}
